@@ -136,6 +136,9 @@ The Streamlit application allows users to enter customer information and instant
 B.Tech Computer Science (AI & ML)
 
 ---
+## Screenshots
+### Home Page
+
 
 ## 📜 License
 
